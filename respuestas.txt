@@ -1,0 +1,3 @@
+Repositorio local creado con Git y subido a GitHub exitosamente.
+Página pública creada en GitHub Pages con la URL: https://tu-nombre.github.io/
+Archivo con la URL de la página subido a la plataforma de la universidad.
